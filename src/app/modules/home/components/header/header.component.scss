@@ -1,0 +1,11 @@
+@import '../../../../../dist/scss/variables.scss';
+
+h1{//elemento unico e burro desse html componente
+    width: 100%;//ocupar todo oespaço do componente pai
+    padding: 15px 0;// padding de 15px em cima e em baixo e zero na lateral
+
+    text-align: center;//alinhar o conteudo no centro
+    font-size: 18px;//tamanho da fonte
+    color: $secondary-text-color;//cor da fonte
+    background-color: $tertiary-background-color;
+}
